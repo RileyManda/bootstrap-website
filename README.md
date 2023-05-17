@@ -165,7 +165,7 @@ If you think that change is necessary - open a Pull Request in this repository a
 👤 **Riley Manda**
 - GitHub: [@RileyManda](https://github.com/RileyManda)
 👤 **Sadaf Daneshgar**
-- GitHub: [@RileyManda](https://github.com/sadaf-Daneshgar)
+- GitHub: [@sadaf-Daneshgar](https://github.com/sadaf-Daneshgar)
 
 
 ## 🤝 Contributing <a name="contributing"></a>
