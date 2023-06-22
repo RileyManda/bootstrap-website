@@ -17,7 +17,7 @@
 
 # 📖 [Portfolio-website] <a name="Portfolio-website"></a>
 
-**[Portfolio-website]** Microverse pair programming boostrap project designed to equip us with Boostrap skills.
+**[Portfolio-website-replica]** Pair programming bootstrap project designed to equip us with Bootstrap skills by rebuilding an existing HTML CSS website with bootstrap.
 
 ## 🛠 Built With <a name="built-with"></a>
 
